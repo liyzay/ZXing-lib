@@ -1,0 +1,1 @@
+include ':app', ':zxing-core', ':zxing-app'
